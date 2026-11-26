@@ -1,0 +1,15 @@
+# Vivado-generated files; RTL, testbenches, ROM and constraints belong in Git.
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+webtalk*.xml
+vivado_pid*.str
